@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Thu Sep 27 16:24:14 IST 2018
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\Hritvik\\ApkProjects\\BluetoothChat\\Application\\build\\intermediates\\transforms\\dexMerger\\debug\\18
+0.path=classes.dex
+0.set=DEX
+count=1
